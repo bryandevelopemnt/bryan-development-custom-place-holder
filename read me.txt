@@ -1,0 +1,3 @@
+to change the background photo go to /assets place your photo in the folder copy the photo name plus the extention then go to main.css change where it says yourphoto.png replace all the lines with the name you copied from your photo.
+
+Bryan Development is partnered with midstate hosting go to https://midstatehosting.com/ and use code: bryan for 15% off your order every month.

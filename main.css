@@ -1,0 +1,25 @@
+body {
+    background: url(assets/yourphoto.jpg) ;
+    background-size: cover;
+    background-size: auto;
+    background-image: url(assets/yourphoto.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    
+}
+
+div {
+    background: url(assets/yourphoto.jpg);
+}
+
+.image-container {
+    position: center;
+    text-align: center;
+
+}
+body {
+    background-image: url('assets/yourphoto.jpg');
+    background-attachment: fixed;
+    background-size: cover; /* Optional: to cover the entire viewport */
+}
